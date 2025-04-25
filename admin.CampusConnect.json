@@ -1,0 +1,3282 @@
+[{
+  "_id": "673ea3aac37d6cdbc5fc119a",
+  "students": {
+    "ST788655": {
+      "academic_details": {
+        "enrollment": {
+          "student_id": "ST788655",
+          "admission_year": 2018,
+          "department": "Business",
+          "program": "undergraduate",
+          "current_semester": 6
+        },
+        "courses": [
+          {
+            "course_code": "BUS580",
+            "course_name": "Devolved zero administration knowledge user",
+            "instructor": "Cheyenne Moore",
+            "credits": 1,
+            "semester": 6
+          },
+          {
+            "course_code": "BUS628",
+            "course_name": "Front-line interactive leverage",
+            "instructor": "Jocelyn Moore",
+            "credits": 4,
+            "semester": 6
+          },
+          {
+            "course_code": "BUS68",
+            "course_name": "Pre-emptive mission-critical process improvement",
+            "instructor": "Chelsey Coleman",
+            "credits": 4,
+            "semester": 6
+          },
+          {
+            "course_code": "BUS135",
+            "course_name": "Managed optimizing alliance",
+            "instructor": "Lisa Murillo",
+            "credits": 4,
+            "semester": 6
+          },
+          {
+            "course_code": "BUS972",
+            "course_name": "Versatile optimal process improvement",
+            "instructor": "Hannah David",
+            "credits": 1,
+            "semester": 6
+          }
+        ],
+        "academic_performance": {
+          "cgpa": 2.98,
+          "semester_wise_gpa": [
+            {
+              "semester": 1,
+              "gpa": 2.36
+            },
+            {
+              "semester": 2,
+              "gpa": 3.05
+            },
+            {
+              "semester": 3,
+              "gpa": 2.77
+            },
+            {
+              "semester": 4,
+              "gpa": 3.29
+            },
+            {
+              "semester": 5,
+              "gpa": 2.55
+            },
+            {
+              "semester": 6,
+              "gpa": 3.87
+            }
+          ],
+          "backlogs": []
+        },
+        "attendance": {
+          "total_classes": 43,
+          "attended_classes": 40,
+          "percentage": 93.02,
+          "per_course_attendance": [
+            {
+              "course_code": "BUS580",
+              "total_classes": 25,
+              "attended_classes": 17,
+              "percentage": 68
+            },
+            {
+              "course_code": "BUS628",
+              "total_classes": 20,
+              "attended_classes": 16,
+              "percentage": 80
+            },
+            {
+              "course_code": "BUS68",
+              "total_classes": 24,
+              "attended_classes": 17,
+              "percentage": 70.83
+            },
+            {
+              "course_code": "BUS135",
+              "total_classes": 25,
+              "attended_classes": 24,
+              "percentage": 96
+            },
+            {
+              "course_code": "BUS972",
+              "total_classes": 29,
+              "attended_classes": 28,
+              "percentage": 96.55
+            }
+          ]
+        }
+      }
+    }
+  }
+},
+{
+  "_id": "673ea3aac37d6cdbc5fc119b",
+  "students": {
+    "ST856856": {
+      "academic_details": {
+        "enrollment": {
+          "student_id": "ST856856",
+          "admission_year": 2020,
+          "department": "Computer Science",
+          "program": "postgraduate",
+          "current_semester": 3
+        },
+        "courses": [
+          {
+            "course_code": "COM601",
+            "course_name": "Pre-emptive analyzing hierarchy",
+            "instructor": "Brianna Mason",
+            "credits": 3,
+            "semester": 3
+          },
+          {
+            "course_code": "COM19",
+            "course_name": "Open-source executive concept",
+            "instructor": "Andrew Snow",
+            "credits": 1,
+            "semester": 3
+          },
+          {
+            "course_code": "COM407",
+            "course_name": "Cloned hybrid emulation",
+            "instructor": "Calvin Waters",
+            "credits": 1,
+            "semester": 3
+          }
+        ],
+        "academic_performance": {
+          "cgpa": 2.56,
+          "semester_wise_gpa": [
+            {
+              "semester": 1,
+              "gpa": 2.68
+            },
+            {
+              "semester": 2,
+              "gpa": 2.68
+            },
+            {
+              "semester": 3,
+              "gpa": 2.31
+            }
+          ],
+          "backlogs": [
+            {
+              "course_code": "COM601",
+              "attempts": 2
+            }
+          ]
+        },
+        "attendance": {
+          "total_classes": 55,
+          "attended_classes": 42,
+          "percentage": 76.36,
+          "per_course_attendance": [
+            {
+              "course_code": "COM601",
+              "total_classes": 27,
+              "attended_classes": 23,
+              "percentage": 85.19
+            },
+            {
+              "course_code": "COM19",
+              "total_classes": 20,
+              "attended_classes": 16,
+              "percentage": 80
+            },
+            {
+              "course_code": "COM407",
+              "total_classes": 17,
+              "attended_classes": 12,
+              "percentage": 70.59
+            }
+          ]
+        }
+      }
+    }
+  }
+},
+{
+  "_id": "673ea3aac37d6cdbc5fc119c",
+  "students": {
+    "ST652238": {
+      "academic_details": {
+        "enrollment": {
+          "student_id": "ST652238",
+          "admission_year": 2019,
+          "department": "Business",
+          "program": "postgraduate",
+          "current_semester": 2
+        },
+        "courses": [
+          {
+            "course_code": "BUS922",
+            "course_name": "Grass-roots coherent leverage",
+            "instructor": "Michelle Black",
+            "credits": 2,
+            "semester": 2
+          },
+          {
+            "course_code": "BUS794",
+            "course_name": "Right-sized 4thgeneration contingency",
+            "instructor": "Bethany Butler",
+            "credits": 4,
+            "semester": 2
+          },
+          {
+            "course_code": "BUS993",
+            "course_name": "Balanced explicit architecture",
+            "instructor": "Mackenzie Wiggins",
+            "credits": 4,
+            "semester": 2
+          },
+          {
+            "course_code": "BUS815",
+            "course_name": "Secured homogeneous paradigm",
+            "instructor": "Mark Moran",
+            "credits": 1,
+            "semester": 2
+          },
+          {
+            "course_code": "BUS830",
+            "course_name": "Grass-roots secondary emulation",
+            "instructor": "Lauren Reynolds",
+            "credits": 2,
+            "semester": 2
+          },
+          {
+            "course_code": "BUS3",
+            "course_name": "Implemented asynchronous structure",
+            "instructor": "Sydney Guerrero",
+            "credits": 1,
+            "semester": 2
+          }
+        ],
+        "academic_performance": {
+          "cgpa": 2.83,
+          "semester_wise_gpa": [
+            {
+              "semester": 1,
+              "gpa": 2.77
+            },
+            {
+              "semester": 2,
+              "gpa": 2.89
+            }
+          ],
+          "backlogs": []
+        },
+        "attendance": {
+          "total_classes": 41,
+          "attended_classes": 30,
+          "percentage": 73.17,
+          "per_course_attendance": [
+            {
+              "course_code": "BUS922",
+              "total_classes": 16,
+              "attended_classes": 14,
+              "percentage": 87.5
+            },
+            {
+              "course_code": "BUS794",
+              "total_classes": 22,
+              "attended_classes": 19,
+              "percentage": 86.36
+            },
+            {
+              "course_code": "BUS993",
+              "total_classes": 17,
+              "attended_classes": 12,
+              "percentage": 70.59
+            },
+            {
+              "course_code": "BUS815",
+              "total_classes": 28,
+              "attended_classes": 20,
+              "percentage": 71.43
+            },
+            {
+              "course_code": "BUS830",
+              "total_classes": 26,
+              "attended_classes": 25,
+              "percentage": 96.15
+            },
+            {
+              "course_code": "BUS3",
+              "total_classes": 28,
+              "attended_classes": 27,
+              "percentage": 96.43
+            }
+          ]
+        }
+      }
+    }
+  }
+},
+{
+  "_id": "673ea3aac37d6cdbc5fc119d",
+  "students": {
+    "ST453397": {
+      "academic_details": {
+        "enrollment": {
+          "student_id": "ST453397",
+          "admission_year": 2018,
+          "department": "Physics",
+          "program": "undergraduate",
+          "current_semester": 7
+        },
+        "courses": [
+          {
+            "course_code": "PHY792",
+            "course_name": "Profound 24hour secured line",
+            "instructor": "Martha Wright",
+            "credits": 1,
+            "semester": 7
+          },
+          {
+            "course_code": "PHY960",
+            "course_name": "Synergistic responsive conglomeration",
+            "instructor": "Patrick Lopez",
+            "credits": 2,
+            "semester": 7
+          },
+          {
+            "course_code": "PHY436",
+            "course_name": "Seamless asynchronous interface",
+            "instructor": "Misty Wells",
+            "credits": 1,
+            "semester": 7
+          },
+          {
+            "course_code": "PHY917",
+            "course_name": "Horizontal methodical Internet solution",
+            "instructor": "Joel Bartlett",
+            "credits": 2,
+            "semester": 7
+          },
+          {
+            "course_code": "PHY917",
+            "course_name": "Expanded interactive ability",
+            "instructor": "Heidi Wilkins",
+            "credits": 3,
+            "semester": 7
+          }
+        ],
+        "academic_performance": {
+          "cgpa": 2.68,
+          "semester_wise_gpa": [
+            {
+              "semester": 1,
+              "gpa": 3.06
+            },
+            {
+              "semester": 2,
+              "gpa": 2.91
+            },
+            {
+              "semester": 3,
+              "gpa": 2.28
+            },
+            {
+              "semester": 4,
+              "gpa": 2.42
+            },
+            {
+              "semester": 5,
+              "gpa": 2.27
+            },
+            {
+              "semester": 6,
+              "gpa": 2.24
+            },
+            {
+              "semester": 7,
+              "gpa": 3.57
+            }
+          ],
+          "backlogs": [
+            {
+              "course_code": "PHY917",
+              "attempts": 1
+            }
+          ]
+        },
+        "attendance": {
+          "total_classes": 48,
+          "attended_classes": 40,
+          "percentage": 83.33,
+          "per_course_attendance": [
+            {
+              "course_code": "PHY792",
+              "total_classes": 17,
+              "attended_classes": 17,
+              "percentage": 100
+            },
+            {
+              "course_code": "PHY960",
+              "total_classes": 18,
+              "attended_classes": 14,
+              "percentage": 77.78
+            },
+            {
+              "course_code": "PHY436",
+              "total_classes": 26,
+              "attended_classes": 19,
+              "percentage": 73.08
+            },
+            {
+              "course_code": "PHY917",
+              "total_classes": 15,
+              "attended_classes": 11,
+              "percentage": 73.33
+            },
+            {
+              "course_code": "PHY917",
+              "total_classes": 26,
+              "attended_classes": 25,
+              "percentage": 96.15
+            }
+          ]
+        }
+      }
+    }
+  }
+},
+{
+  "_id": "673ea3aac37d6cdbc5fc119e",
+  "students": {
+    "ST489029": {
+      "academic_details": {
+        "enrollment": {
+          "student_id": "ST489029",
+          "admission_year": 2020,
+          "department": "Engineering",
+          "program": "doctoral",
+          "current_semester": 7
+        },
+        "courses": [
+          {
+            "course_code": "ENG677",
+            "course_name": "Progressive contextually-based secured line",
+            "instructor": "Julie Sanchez",
+            "credits": 4,
+            "semester": 7
+          },
+          {
+            "course_code": "ENG977",
+            "course_name": "Persistent actuating migration",
+            "instructor": "Zachary Baird",
+            "credits": 4,
+            "semester": 7
+          },
+          {
+            "course_code": "ENG16",
+            "course_name": "Configurable global knowledgebase",
+            "instructor": "Vincent Gonzalez",
+            "credits": 2,
+            "semester": 7
+          }
+        ],
+        "academic_performance": {
+          "cgpa": 3.24,
+          "semester_wise_gpa": [
+            {
+              "semester": 1,
+              "gpa": 3.58
+            },
+            {
+              "semester": 2,
+              "gpa": 3.52
+            },
+            {
+              "semester": 3,
+              "gpa": 3.79
+            },
+            {
+              "semester": 4,
+              "gpa": 3.42
+            },
+            {
+              "semester": 5,
+              "gpa": 3.42
+            },
+            {
+              "semester": 6,
+              "gpa": 2.08
+            },
+            {
+              "semester": 7,
+              "gpa": 2.85
+            }
+          ],
+          "backlogs": [
+            {
+              "course_code": "ENG677",
+              "attempts": 2
+            }
+          ]
+        },
+        "attendance": {
+          "total_classes": 52,
+          "attended_classes": 47,
+          "percentage": 90.38,
+          "per_course_attendance": [
+            {
+              "course_code": "ENG677",
+              "total_classes": 20,
+              "attended_classes": 16,
+              "percentage": 80
+            },
+            {
+              "course_code": "ENG977",
+              "total_classes": 15,
+              "attended_classes": 12,
+              "percentage": 80
+            },
+            {
+              "course_code": "ENG16",
+              "total_classes": 25,
+              "attended_classes": 17,
+              "percentage": 68
+            }
+          ]
+        }
+      }
+    }
+  }
+},
+{
+  "_id": "673ea3aac37d6cdbc5fc119f",
+  "students": {
+    "ST100492": {
+      "academic_details": {
+        "enrollment": {
+          "student_id": "ST100492",
+          "admission_year": 2019,
+          "department": "Computer Science",
+          "program": "undergraduate",
+          "current_semester": 7
+        },
+        "courses": [
+          {
+            "course_code": "COM725",
+            "course_name": "Organic transitional methodology",
+            "instructor": "Lisa Brown",
+            "credits": 2,
+            "semester": 7
+          },
+          {
+            "course_code": "COM283",
+            "course_name": "Optional zero tolerance definition",
+            "instructor": "Donald Rice",
+            "credits": 3,
+            "semester": 7
+          },
+          {
+            "course_code": "COM511",
+            "course_name": "Up-sized hybrid portal",
+            "instructor": "Christopher Chambers",
+            "credits": 3,
+            "semester": 7
+          }
+        ],
+        "academic_performance": {
+          "cgpa": 2.97,
+          "semester_wise_gpa": [
+            {
+              "semester": 1,
+              "gpa": 2.78
+            },
+            {
+              "semester": 2,
+              "gpa": 3.29
+            },
+            {
+              "semester": 3,
+              "gpa": 2.24
+            },
+            {
+              "semester": 4,
+              "gpa": 2.87
+            },
+            {
+              "semester": 5,
+              "gpa": 2.47
+            },
+            {
+              "semester": 6,
+              "gpa": 3.46
+            },
+            {
+              "semester": 7,
+              "gpa": 3.68
+            }
+          ],
+          "backlogs": [
+            {
+              "course_code": "COM725",
+              "attempts": 2
+            },
+            {
+              "course_code": "COM511",
+              "attempts": 2
+            },
+            {
+              "course_code": "COM511",
+              "attempts": 1
+            }
+          ]
+        },
+        "attendance": {
+          "total_classes": 38,
+          "attended_classes": 31,
+          "percentage": 81.58,
+          "per_course_attendance": [
+            {
+              "course_code": "COM725",
+              "total_classes": 15,
+              "attended_classes": 10,
+              "percentage": 66.67
+            },
+            {
+              "course_code": "COM283",
+              "total_classes": 24,
+              "attended_classes": 24,
+              "percentage": 100
+            },
+            {
+              "course_code": "COM511",
+              "total_classes": 21,
+              "attended_classes": 18,
+              "percentage": 85.71
+            }
+          ]
+        }
+      }
+    }
+  }
+},
+{
+  "_id": "673ea3aac37d6cdbc5fc11a0",
+  "students": {
+    "ST917989": {
+      "academic_details": {
+        "enrollment": {
+          "student_id": "ST917989",
+          "admission_year": 2019,
+          "department": "Chemistry",
+          "program": "doctoral",
+          "current_semester": 7
+        },
+        "courses": [
+          {
+            "course_code": "CHE612",
+            "course_name": "Robust zero tolerance Internet solution",
+            "instructor": "Steven Holmes",
+            "credits": 2,
+            "semester": 7
+          },
+          {
+            "course_code": "CHE734",
+            "course_name": "Object-based heuristic forecast",
+            "instructor": "Leslie Moreno",
+            "credits": 1,
+            "semester": 7
+          },
+          {
+            "course_code": "CHE380",
+            "course_name": "Balanced 4thgeneration algorithm",
+            "instructor": "Lindsay Richardson",
+            "credits": 4,
+            "semester": 7
+          },
+          {
+            "course_code": "CHE517",
+            "course_name": "Configurable grid-enabled Graphic Interface",
+            "instructor": "Andrew Robles",
+            "credits": 2,
+            "semester": 7
+          },
+          {
+            "course_code": "CHE734",
+            "course_name": "Innovative coherent strategy",
+            "instructor": "John Miller",
+            "credits": 4,
+            "semester": 7
+          },
+          {
+            "course_code": "CHE438",
+            "course_name": "De-engineered attitude-oriented website",
+            "instructor": "Diane Morton",
+            "credits": 4,
+            "semester": 7
+          }
+        ],
+        "academic_performance": {
+          "cgpa": 2.92,
+          "semester_wise_gpa": [
+            {
+              "semester": 1,
+              "gpa": 2.16
+            },
+            {
+              "semester": 2,
+              "gpa": 3.17
+            },
+            {
+              "semester": 3,
+              "gpa": 3.43
+            },
+            {
+              "semester": 4,
+              "gpa": 2.3
+            },
+            {
+              "semester": 5,
+              "gpa": 3.92
+            },
+            {
+              "semester": 6,
+              "gpa": 2.15
+            },
+            {
+              "semester": 7,
+              "gpa": 3.28
+            }
+          ],
+          "backlogs": [
+            {
+              "course_code": "CHE734",
+              "attempts": 2
+            },
+            {
+              "course_code": "CHE734",
+              "attempts": 1
+            }
+          ]
+        },
+        "attendance": {
+          "total_classes": 30,
+          "attended_classes": 27,
+          "percentage": 90,
+          "per_course_attendance": [
+            {
+              "course_code": "CHE612",
+              "total_classes": 27,
+              "attended_classes": 21,
+              "percentage": 77.78
+            },
+            {
+              "course_code": "CHE734",
+              "total_classes": 24,
+              "attended_classes": 19,
+              "percentage": 79.17
+            },
+            {
+              "course_code": "CHE380",
+              "total_classes": 27,
+              "attended_classes": 27,
+              "percentage": 100
+            },
+            {
+              "course_code": "CHE517",
+              "total_classes": 30,
+              "attended_classes": 28,
+              "percentage": 93.33
+            },
+            {
+              "course_code": "CHE734",
+              "total_classes": 21,
+              "attended_classes": 18,
+              "percentage": 85.71
+            },
+            {
+              "course_code": "CHE438",
+              "total_classes": 19,
+              "attended_classes": 18,
+              "percentage": 94.74
+            }
+          ]
+        }
+      }
+    }
+  }
+},
+{
+  "_id": "673ea3aac37d6cdbc5fc11a1",
+  "students": {
+    "ST591321": {
+      "academic_details": {
+        "enrollment": {
+          "student_id": "ST591321",
+          "admission_year": 2023,
+          "department": "Mathematics",
+          "program": "undergraduate",
+          "current_semester": 3
+        },
+        "courses": [
+          {
+            "course_code": "MAT644",
+            "course_name": "Team-oriented radical function",
+            "instructor": "Mary Sharp",
+            "credits": 1,
+            "semester": 3
+          },
+          {
+            "course_code": "MAT258",
+            "course_name": "Sharable client-server model",
+            "instructor": "Erin Rodriguez",
+            "credits": 1,
+            "semester": 3
+          },
+          {
+            "course_code": "MAT630",
+            "course_name": "Open-architected zero administration customer loyalty",
+            "instructor": "Nicholas Mosley",
+            "credits": 4,
+            "semester": 3
+          },
+          {
+            "course_code": "MAT768",
+            "course_name": "Organized directional open system",
+            "instructor": "Kathleen Short",
+            "credits": 3,
+            "semester": 3
+          }
+        ],
+        "academic_performance": {
+          "cgpa": 3.44,
+          "semester_wise_gpa": [
+            {
+              "semester": 1,
+              "gpa": 2.6
+            },
+            {
+              "semester": 2,
+              "gpa": 3.81
+            },
+            {
+              "semester": 3,
+              "gpa": 3.91
+            }
+          ],
+          "backlogs": [
+            {
+              "course_code": "MAT630",
+              "attempts": 3
+            }
+          ]
+        },
+        "attendance": {
+          "total_classes": 36,
+          "attended_classes": 26,
+          "percentage": 72.22,
+          "per_course_attendance": [
+            {
+              "course_code": "MAT644",
+              "total_classes": 21,
+              "attended_classes": 21,
+              "percentage": 100
+            },
+            {
+              "course_code": "MAT258",
+              "total_classes": 27,
+              "attended_classes": 22,
+              "percentage": 81.48
+            },
+            {
+              "course_code": "MAT630",
+              "total_classes": 26,
+              "attended_classes": 25,
+              "percentage": 96.15
+            },
+            {
+              "course_code": "MAT768",
+              "total_classes": 16,
+              "attended_classes": 13,
+              "percentage": 81.25
+            }
+          ]
+        }
+      }
+    }
+  }
+},
+{
+  "_id": "673ea3aac37d6cdbc5fc11a2",
+  "students": {
+    "ST108322": {
+      "academic_details": {
+        "enrollment": {
+          "student_id": "ST108322",
+          "admission_year": 2021,
+          "department": "Physics",
+          "program": "undergraduate",
+          "current_semester": 8
+        },
+        "courses": [
+          {
+            "course_code": "PHY521",
+            "course_name": "Upgradable asymmetric Graphical User Interface",
+            "instructor": "Dylan Bryant",
+            "credits": 2,
+            "semester": 8
+          },
+          {
+            "course_code": "PHY988",
+            "course_name": "Focused hybrid system engine",
+            "instructor": "Karen Pittman",
+            "credits": 2,
+            "semester": 8
+          },
+          {
+            "course_code": "PHY973",
+            "course_name": "Polarized non-volatile interface",
+            "instructor": "Daniel Jones",
+            "credits": 2,
+            "semester": 8
+          },
+          {
+            "course_code": "PHY739",
+            "course_name": "Reverse-engineered explicit projection",
+            "instructor": "Andrew Garrett",
+            "credits": 1,
+            "semester": 8
+          },
+          {
+            "course_code": "PHY553",
+            "course_name": "Seamless bandwidth-monitored help-desk",
+            "instructor": "Andrea Clark",
+            "credits": 2,
+            "semester": 8
+          },
+          {
+            "course_code": "PHY598",
+            "course_name": "Versatile high-level application",
+            "instructor": "James Romero",
+            "credits": 1,
+            "semester": 8
+          }
+        ],
+        "academic_performance": {
+          "cgpa": 3.22,
+          "semester_wise_gpa": [
+            {
+              "semester": 1,
+              "gpa": 3.05
+            },
+            {
+              "semester": 2,
+              "gpa": 3.53
+            },
+            {
+              "semester": 3,
+              "gpa": 3.01
+            },
+            {
+              "semester": 4,
+              "gpa": 2.29
+            },
+            {
+              "semester": 5,
+              "gpa": 3.42
+            },
+            {
+              "semester": 6,
+              "gpa": 3.04
+            },
+            {
+              "semester": 7,
+              "gpa": 3.64
+            },
+            {
+              "semester": 8,
+              "gpa": 3.79
+            }
+          ],
+          "backlogs": [
+            {
+              "course_code": "PHY521",
+              "attempts": 2
+            }
+          ]
+        },
+        "attendance": {
+          "total_classes": 30,
+          "attended_classes": 27,
+          "percentage": 90,
+          "per_course_attendance": [
+            {
+              "course_code": "PHY521",
+              "total_classes": 17,
+              "attended_classes": 14,
+              "percentage": 82.35
+            },
+            {
+              "course_code": "PHY988",
+              "total_classes": 25,
+              "attended_classes": 17,
+              "percentage": 68
+            },
+            {
+              "course_code": "PHY973",
+              "total_classes": 24,
+              "attended_classes": 20,
+              "percentage": 83.33
+            },
+            {
+              "course_code": "PHY739",
+              "total_classes": 28,
+              "attended_classes": 19,
+              "percentage": 67.86
+            },
+            {
+              "course_code": "PHY553",
+              "total_classes": 15,
+              "attended_classes": 13,
+              "percentage": 86.67
+            },
+            {
+              "course_code": "PHY598",
+              "total_classes": 27,
+              "attended_classes": 20,
+              "percentage": 74.07
+            }
+          ]
+        }
+      }
+    }
+  }
+},
+{
+  "_id": "673ea3aac37d6cdbc5fc11a3",
+  "students": {
+    "ST778798": {
+      "academic_details": {
+        "enrollment": {
+          "student_id": "ST778798",
+          "admission_year": 2023,
+          "department": "Chemistry",
+          "program": "postgraduate",
+          "current_semester": 4
+        },
+        "courses": [
+          {
+            "course_code": "CHE520",
+            "course_name": "Business-focused intangible moratorium",
+            "instructor": "Crystal Abbott",
+            "credits": 4,
+            "semester": 4
+          },
+          {
+            "course_code": "CHE781",
+            "course_name": "Enhanced zero tolerance instruction set",
+            "instructor": "Christina Molina",
+            "credits": 3,
+            "semester": 4
+          },
+          {
+            "course_code": "CHE316",
+            "course_name": "Versatile didactic secured line",
+            "instructor": "Terry Daniels",
+            "credits": 2,
+            "semester": 4
+          },
+          {
+            "course_code": "CHE280",
+            "course_name": "Stand-alone logistical monitoring",
+            "instructor": "Wendy Green",
+            "credits": 3,
+            "semester": 4
+          },
+          {
+            "course_code": "CHE537",
+            "course_name": "Function-based tangible projection",
+            "instructor": "Leslie Hale",
+            "credits": 2,
+            "semester": 4
+          },
+          {
+            "course_code": "CHE960",
+            "course_name": "User-centric optimizing success",
+            "instructor": "Jacqueline Hale",
+            "credits": 4,
+            "semester": 4
+          }
+        ],
+        "academic_performance": {
+          "cgpa": 3.14,
+          "semester_wise_gpa": [
+            {
+              "semester": 1,
+              "gpa": 3.08
+            },
+            {
+              "semester": 2,
+              "gpa": 2.12
+            },
+            {
+              "semester": 3,
+              "gpa": 3.46
+            },
+            {
+              "semester": 4,
+              "gpa": 3.91
+            }
+          ],
+          "backlogs": []
+        },
+        "attendance": {
+          "total_classes": 48,
+          "attended_classes": 42,
+          "percentage": 87.5,
+          "per_course_attendance": [
+            {
+              "course_code": "CHE520",
+              "total_classes": 30,
+              "attended_classes": 21,
+              "percentage": 70
+            },
+            {
+              "course_code": "CHE781",
+              "total_classes": 21,
+              "attended_classes": 17,
+              "percentage": 80.95
+            },
+            {
+              "course_code": "CHE316",
+              "total_classes": 25,
+              "attended_classes": 20,
+              "percentage": 80
+            },
+            {
+              "course_code": "CHE280",
+              "total_classes": 27,
+              "attended_classes": 18,
+              "percentage": 66.67
+            },
+            {
+              "course_code": "CHE537",
+              "total_classes": 25,
+              "attended_classes": 21,
+              "percentage": 84
+            },
+            {
+              "course_code": "CHE960",
+              "total_classes": 29,
+              "attended_classes": 29,
+              "percentage": 100
+            }
+          ]
+        }
+      }
+    }
+  }
+},
+{
+  "_id": "673ea3aac37d6cdbc5fc11a4",
+  "students": {
+    "ST913549": {
+      "academic_details": {
+        "enrollment": {
+          "student_id": "ST913549",
+          "admission_year": 2018,
+          "department": "Chemistry",
+          "program": "undergraduate",
+          "current_semester": 3
+        },
+        "courses": [
+          {
+            "course_code": "CHE329",
+            "course_name": "Integrated needs-based protocol",
+            "instructor": "Joseph Stokes",
+            "credits": 2,
+            "semester": 3
+          },
+          {
+            "course_code": "CHE98",
+            "course_name": "Customizable systematic open system",
+            "instructor": "Kristen Rowe",
+            "credits": 4,
+            "semester": 3
+          },
+          {
+            "course_code": "CHE107",
+            "course_name": "Enhanced explicit methodology",
+            "instructor": "Rhonda Higgins",
+            "credits": 2,
+            "semester": 3
+          },
+          {
+            "course_code": "CHE132",
+            "course_name": "Versatile intangible functionalities",
+            "instructor": "Patrick Lowe",
+            "credits": 2,
+            "semester": 3
+          }
+        ],
+        "academic_performance": {
+          "cgpa": 2.65,
+          "semester_wise_gpa": [
+            {
+              "semester": 1,
+              "gpa": 3.72
+            },
+            {
+              "semester": 2,
+              "gpa": 2.22
+            },
+            {
+              "semester": 3,
+              "gpa": 2.01
+            }
+          ],
+          "backlogs": [
+            {
+              "course_code": "CHE132",
+              "attempts": 1
+            }
+          ]
+        },
+        "attendance": {
+          "total_classes": 45,
+          "attended_classes": 44,
+          "percentage": 97.78,
+          "per_course_attendance": [
+            {
+              "course_code": "CHE329",
+              "total_classes": 26,
+              "attended_classes": 21,
+              "percentage": 80.77
+            },
+            {
+              "course_code": "CHE98",
+              "total_classes": 18,
+              "attended_classes": 18,
+              "percentage": 100
+            },
+            {
+              "course_code": "CHE107",
+              "total_classes": 16,
+              "attended_classes": 11,
+              "percentage": 68.75
+            },
+            {
+              "course_code": "CHE132",
+              "total_classes": 25,
+              "attended_classes": 21,
+              "percentage": 84
+            }
+          ]
+        }
+      }
+    }
+  }
+},
+{
+  "_id": "673ea3aac37d6cdbc5fc11a5",
+  "students": {
+    "ST87397": {
+      "academic_details": {
+        "enrollment": {
+          "student_id": "ST87397",
+          "admission_year": 2021,
+          "department": "Business",
+          "program": "undergraduate",
+          "current_semester": 2
+        },
+        "courses": [
+          {
+            "course_code": "BUS152",
+            "course_name": "Sharable 6thgeneration knowledge user",
+            "instructor": "Stacy Simpson",
+            "credits": 4,
+            "semester": 2
+          },
+          {
+            "course_code": "BUS294",
+            "course_name": "Synergistic mission-critical ability",
+            "instructor": "Julian Barron",
+            "credits": 4,
+            "semester": 2
+          },
+          {
+            "course_code": "BUS709",
+            "course_name": "Sharable modular workforce",
+            "instructor": "Mrs. Vicki Sawyer",
+            "credits": 3,
+            "semester": 2
+          },
+          {
+            "course_code": "BUS571",
+            "course_name": "Cloned multimedia hub",
+            "instructor": "Dylan West",
+            "credits": 1,
+            "semester": 2
+          },
+          {
+            "course_code": "BUS110",
+            "course_name": "Synergized tangible parallelism",
+            "instructor": "Joshua Adams",
+            "credits": 4,
+            "semester": 2
+          }
+        ],
+        "academic_performance": {
+          "cgpa": 2.97,
+          "semester_wise_gpa": [
+            {
+              "semester": 1,
+              "gpa": 3.33
+            },
+            {
+              "semester": 2,
+              "gpa": 2.61
+            }
+          ],
+          "backlogs": []
+        },
+        "attendance": {
+          "total_classes": 58,
+          "attended_classes": 47,
+          "percentage": 81.03,
+          "per_course_attendance": [
+            {
+              "course_code": "BUS152",
+              "total_classes": 30,
+              "attended_classes": 26,
+              "percentage": 86.67
+            },
+            {
+              "course_code": "BUS294",
+              "total_classes": 18,
+              "attended_classes": 13,
+              "percentage": 72.22
+            },
+            {
+              "course_code": "BUS709",
+              "total_classes": 28,
+              "attended_classes": 21,
+              "percentage": 75
+            },
+            {
+              "course_code": "BUS571",
+              "total_classes": 24,
+              "attended_classes": 19,
+              "percentage": 79.17
+            },
+            {
+              "course_code": "BUS110",
+              "total_classes": 28,
+              "attended_classes": 20,
+              "percentage": 71.43
+            }
+          ]
+        }
+      }
+    }
+  }
+},
+{
+  "_id": "673ea3aac37d6cdbc5fc11a6",
+  "students": {
+    "ST637419": {
+      "academic_details": {
+        "enrollment": {
+          "student_id": "ST637419",
+          "admission_year": 2021,
+          "department": "Engineering",
+          "program": "undergraduate",
+          "current_semester": 8
+        },
+        "courses": [
+          {
+            "course_code": "ENG256",
+            "course_name": "Robust non-volatile groupware",
+            "instructor": "Matthew Miller",
+            "credits": 1,
+            "semester": 8
+          },
+          {
+            "course_code": "ENG464",
+            "course_name": "Multi-lateral fault-tolerant migration",
+            "instructor": "Jodi Howard",
+            "credits": 1,
+            "semester": 8
+          },
+          {
+            "course_code": "ENG963",
+            "course_name": "Sharable responsive paradigm",
+            "instructor": "Tonya Porter",
+            "credits": 2,
+            "semester": 8
+          }
+        ],
+        "academic_performance": {
+          "cgpa": 3,
+          "semester_wise_gpa": [
+            {
+              "semester": 1,
+              "gpa": 2.13
+            },
+            {
+              "semester": 2,
+              "gpa": 3.87
+            },
+            {
+              "semester": 3,
+              "gpa": 2.03
+            },
+            {
+              "semester": 4,
+              "gpa": 3.23
+            },
+            {
+              "semester": 5,
+              "gpa": 3.05
+            },
+            {
+              "semester": 6,
+              "gpa": 2.81
+            },
+            {
+              "semester": 7,
+              "gpa": 3.68
+            },
+            {
+              "semester": 8,
+              "gpa": 3.21
+            }
+          ],
+          "backlogs": []
+        },
+        "attendance": {
+          "total_classes": 35,
+          "attended_classes": 29,
+          "percentage": 82.86,
+          "per_course_attendance": [
+            {
+              "course_code": "ENG256",
+              "total_classes": 17,
+              "attended_classes": 13,
+              "percentage": 76.47
+            },
+            {
+              "course_code": "ENG464",
+              "total_classes": 19,
+              "attended_classes": 17,
+              "percentage": 89.47
+            },
+            {
+              "course_code": "ENG963",
+              "total_classes": 19,
+              "attended_classes": 19,
+              "percentage": 100
+            }
+          ]
+        }
+      }
+    }
+  }
+},
+{
+  "_id": "673ea3aac37d6cdbc5fc11a7",
+  "students": {
+    "ST191711": {
+      "academic_details": {
+        "enrollment": {
+          "student_id": "ST191711",
+          "admission_year": 2023,
+          "department": "Business",
+          "program": "undergraduate",
+          "current_semester": 2
+        },
+        "courses": [
+          {
+            "course_code": "BUS320",
+            "course_name": "Managed 4thgeneration complexity",
+            "instructor": "Amy Campbell",
+            "credits": 2,
+            "semester": 2
+          },
+          {
+            "course_code": "BUS509",
+            "course_name": "Synergized asynchronous standardization",
+            "instructor": "Shane Davis",
+            "credits": 4,
+            "semester": 2
+          },
+          {
+            "course_code": "BUS277",
+            "course_name": "Configurable modular knowledge user",
+            "instructor": "Joseph Bradshaw",
+            "credits": 3,
+            "semester": 2
+          }
+        ],
+        "academic_performance": {
+          "cgpa": 2.84,
+          "semester_wise_gpa": [
+            {
+              "semester": 1,
+              "gpa": 3.15
+            },
+            {
+              "semester": 2,
+              "gpa": 2.54
+            }
+          ],
+          "backlogs": [
+            {
+              "course_code": "BUS277",
+              "attempts": 1
+            }
+          ]
+        },
+        "attendance": {
+          "total_classes": 57,
+          "attended_classes": 42,
+          "percentage": 73.68,
+          "per_course_attendance": [
+            {
+              "course_code": "BUS320",
+              "total_classes": 22,
+              "attended_classes": 19,
+              "percentage": 86.36
+            },
+            {
+              "course_code": "BUS509",
+              "total_classes": 22,
+              "attended_classes": 17,
+              "percentage": 77.27
+            },
+            {
+              "course_code": "BUS277",
+              "total_classes": 15,
+              "attended_classes": 15,
+              "percentage": 100
+            }
+          ]
+        }
+      }
+    }
+  }
+},
+{
+  "_id": "673ea3aac37d6cdbc5fc11a8",
+  "students": {
+    "ST179049": {
+      "academic_details": {
+        "enrollment": {
+          "student_id": "ST179049",
+          "admission_year": 2020,
+          "department": "Chemistry",
+          "program": "doctoral",
+          "current_semester": 4
+        },
+        "courses": [
+          {
+            "course_code": "CHE192",
+            "course_name": "Multi-lateral stable matrix",
+            "instructor": "Jennifer Young",
+            "credits": 1,
+            "semester": 4
+          },
+          {
+            "course_code": "CHE753",
+            "course_name": "Front-line scalable synergy",
+            "instructor": "Sarah Peters",
+            "credits": 4,
+            "semester": 4
+          },
+          {
+            "course_code": "CHE827",
+            "course_name": "Configurable foreground definition",
+            "instructor": "Alexander Gomez",
+            "credits": 3,
+            "semester": 4
+          }
+        ],
+        "academic_performance": {
+          "cgpa": 2.64,
+          "semester_wise_gpa": [
+            {
+              "semester": 1,
+              "gpa": 2.89
+            },
+            {
+              "semester": 2,
+              "gpa": 2.33
+            },
+            {
+              "semester": 3,
+              "gpa": 2.63
+            },
+            {
+              "semester": 4,
+              "gpa": 2.71
+            }
+          ],
+          "backlogs": [
+            {
+              "course_code": "CHE753",
+              "attempts": 3
+            }
+          ]
+        },
+        "attendance": {
+          "total_classes": 58,
+          "attended_classes": 56,
+          "percentage": 96.55,
+          "per_course_attendance": [
+            {
+              "course_code": "CHE192",
+              "total_classes": 20,
+              "attended_classes": 19,
+              "percentage": 95
+            },
+            {
+              "course_code": "CHE753",
+              "total_classes": 17,
+              "attended_classes": 12,
+              "percentage": 70.59
+            },
+            {
+              "course_code": "CHE827",
+              "total_classes": 20,
+              "attended_classes": 14,
+              "percentage": 70
+            }
+          ]
+        }
+      }
+    }
+  }
+},
+{
+  "_id": "673ea3aac37d6cdbc5fc11a9",
+  "students": {
+    "ST712597": {
+      "academic_details": {
+        "enrollment": {
+          "student_id": "ST712597",
+          "admission_year": 2022,
+          "department": "Computer Science",
+          "program": "undergraduate",
+          "current_semester": 2
+        },
+        "courses": [
+          {
+            "course_code": "COM597",
+            "course_name": "Cross-group uniform frame",
+            "instructor": "Jessica Jones",
+            "credits": 2,
+            "semester": 2
+          },
+          {
+            "course_code": "COM778",
+            "course_name": "Self-enabling well-modulated definition",
+            "instructor": "Timothy Parker",
+            "credits": 2,
+            "semester": 2
+          },
+          {
+            "course_code": "COM726",
+            "course_name": "Adaptive mission-critical throughput",
+            "instructor": "John Alvarez",
+            "credits": 2,
+            "semester": 2
+          }
+        ],
+        "academic_performance": {
+          "cgpa": 2.13,
+          "semester_wise_gpa": [
+            {
+              "semester": 1,
+              "gpa": 2.02
+            },
+            {
+              "semester": 2,
+              "gpa": 2.25
+            }
+          ],
+          "backlogs": []
+        },
+        "attendance": {
+          "total_classes": 32,
+          "attended_classes": 22,
+          "percentage": 68.75,
+          "per_course_attendance": [
+            {
+              "course_code": "COM597",
+              "total_classes": 23,
+              "attended_classes": 21,
+              "percentage": 91.3
+            },
+            {
+              "course_code": "COM778",
+              "total_classes": 21,
+              "attended_classes": 18,
+              "percentage": 85.71
+            },
+            {
+              "course_code": "COM726",
+              "total_classes": 27,
+              "attended_classes": 23,
+              "percentage": 85.19
+            }
+          ]
+        }
+      }
+    }
+  }
+},
+{
+  "_id": "673ea3aac37d6cdbc5fc11aa",
+  "students": {
+    "ST780620": {
+      "academic_details": {
+        "enrollment": {
+          "student_id": "ST780620",
+          "admission_year": 2020,
+          "department": "Engineering",
+          "program": "undergraduate",
+          "current_semester": 6
+        },
+        "courses": [
+          {
+            "course_code": "ENG676",
+            "course_name": "Phased disintermediate structure",
+            "instructor": "Austin Solomon",
+            "credits": 3,
+            "semester": 6
+          },
+          {
+            "course_code": "ENG503",
+            "course_name": "Versatile intangible methodology",
+            "instructor": "Cody Jackson",
+            "credits": 4,
+            "semester": 6
+          },
+          {
+            "course_code": "ENG317",
+            "course_name": "Right-sized foreground archive",
+            "instructor": "Lisa Johnson",
+            "credits": 1,
+            "semester": 6
+          },
+          {
+            "course_code": "ENG462",
+            "course_name": "Stand-alone grid-enabled analyzer",
+            "instructor": "Joseph Powell",
+            "credits": 3,
+            "semester": 6
+          },
+          {
+            "course_code": "ENG779",
+            "course_name": "Focused dedicated help-desk",
+            "instructor": "Sarah Macias",
+            "credits": 4,
+            "semester": 6
+          }
+        ],
+        "academic_performance": {
+          "cgpa": 3.01,
+          "semester_wise_gpa": [
+            {
+              "semester": 1,
+              "gpa": 3.25
+            },
+            {
+              "semester": 2,
+              "gpa": 3.15
+            },
+            {
+              "semester": 3,
+              "gpa": 2.53
+            },
+            {
+              "semester": 4,
+              "gpa": 3.66
+            },
+            {
+              "semester": 5,
+              "gpa": 2.56
+            },
+            {
+              "semester": 6,
+              "gpa": 2.9
+            }
+          ],
+          "backlogs": [
+            {
+              "course_code": "ENG503",
+              "attempts": 2
+            }
+          ]
+        },
+        "attendance": {
+          "total_classes": 52,
+          "attended_classes": 37,
+          "percentage": 71.15,
+          "per_course_attendance": [
+            {
+              "course_code": "ENG676",
+              "total_classes": 17,
+              "attended_classes": 13,
+              "percentage": 76.47
+            },
+            {
+              "course_code": "ENG503",
+              "total_classes": 22,
+              "attended_classes": 18,
+              "percentage": 81.82
+            },
+            {
+              "course_code": "ENG317",
+              "total_classes": 18,
+              "attended_classes": 17,
+              "percentage": 94.44
+            },
+            {
+              "course_code": "ENG462",
+              "total_classes": 16,
+              "attended_classes": 16,
+              "percentage": 100
+            },
+            {
+              "course_code": "ENG779",
+              "total_classes": 17,
+              "attended_classes": 17,
+              "percentage": 100
+            }
+          ]
+        }
+      }
+    }
+  }
+},
+{
+  "_id": "673ea3aac37d6cdbc5fc11ab",
+  "students": {
+    "ST648873": {
+      "academic_details": {
+        "enrollment": {
+          "student_id": "ST648873",
+          "admission_year": 2019,
+          "department": "Business",
+          "program": "doctoral",
+          "current_semester": 3
+        },
+        "courses": [
+          {
+            "course_code": "BUS457",
+            "course_name": "Diverse demand-driven contingency",
+            "instructor": "Matthew Long",
+            "credits": 4,
+            "semester": 3
+          },
+          {
+            "course_code": "BUS714",
+            "course_name": "Secured 24hour initiative",
+            "instructor": "Andrew Ritter",
+            "credits": 1,
+            "semester": 3
+          },
+          {
+            "course_code": "BUS173",
+            "course_name": "Automated 4thgeneration challenge",
+            "instructor": "Thomas Nunez",
+            "credits": 2,
+            "semester": 3
+          }
+        ],
+        "academic_performance": {
+          "cgpa": 2.79,
+          "semester_wise_gpa": [
+            {
+              "semester": 1,
+              "gpa": 2.71
+            },
+            {
+              "semester": 2,
+              "gpa": 2.68
+            },
+            {
+              "semester": 3,
+              "gpa": 2.98
+            }
+          ],
+          "backlogs": []
+        },
+        "attendance": {
+          "total_classes": 45,
+          "attended_classes": 37,
+          "percentage": 82.22,
+          "per_course_attendance": [
+            {
+              "course_code": "BUS457",
+              "total_classes": 22,
+              "attended_classes": 21,
+              "percentage": 95.45
+            },
+            {
+              "course_code": "BUS714",
+              "total_classes": 18,
+              "attended_classes": 13,
+              "percentage": 72.22
+            },
+            {
+              "course_code": "BUS173",
+              "total_classes": 18,
+              "attended_classes": 17,
+              "percentage": 94.44
+            }
+          ]
+        }
+      }
+    }
+  }
+},
+{
+  "_id": "673ea3aac37d6cdbc5fc11ac",
+  "students": {
+    "ST138345": {
+      "academic_details": {
+        "enrollment": {
+          "student_id": "ST138345",
+          "admission_year": 2021,
+          "department": "Business",
+          "program": "undergraduate",
+          "current_semester": 3
+        },
+        "courses": [
+          {
+            "course_code": "BUS979",
+            "course_name": "Public-key disintermediate throughput",
+            "instructor": "Anna Ford",
+            "credits": 4,
+            "semester": 3
+          },
+          {
+            "course_code": "BUS505",
+            "course_name": "Pre-emptive optimal forecast",
+            "instructor": "Michael Newman",
+            "credits": 1,
+            "semester": 3
+          },
+          {
+            "course_code": "BUS106",
+            "course_name": "Mandatory analyzing approach",
+            "instructor": "Paul Smith",
+            "credits": 3,
+            "semester": 3
+          }
+        ],
+        "academic_performance": {
+          "cgpa": 2.88,
+          "semester_wise_gpa": [
+            {
+              "semester": 1,
+              "gpa": 2.5
+            },
+            {
+              "semester": 2,
+              "gpa": 2.9
+            },
+            {
+              "semester": 3,
+              "gpa": 3.23
+            }
+          ],
+          "backlogs": [
+            {
+              "course_code": "BUS979",
+              "attempts": 3
+            }
+          ]
+        },
+        "attendance": {
+          "total_classes": 32,
+          "attended_classes": 32,
+          "percentage": 100,
+          "per_course_attendance": [
+            {
+              "course_code": "BUS979",
+              "total_classes": 25,
+              "attended_classes": 25,
+              "percentage": 100
+            },
+            {
+              "course_code": "BUS505",
+              "total_classes": 18,
+              "attended_classes": 15,
+              "percentage": 83.33
+            },
+            {
+              "course_code": "BUS106",
+              "total_classes": 30,
+              "attended_classes": 21,
+              "percentage": 70
+            }
+          ]
+        }
+      }
+    }
+  }
+},
+{
+  "_id": "673ea3aac37d6cdbc5fc11ad",
+  "students": {
+    "ST154231": {
+      "academic_details": {
+        "enrollment": {
+          "student_id": "ST154231",
+          "admission_year": 2021,
+          "department": "Computer Science",
+          "program": "doctoral",
+          "current_semester": 3
+        },
+        "courses": [
+          {
+            "course_code": "COM805",
+            "course_name": "Quality-focused web-enabled alliance",
+            "instructor": "Nicholas Snow",
+            "credits": 4,
+            "semester": 3
+          },
+          {
+            "course_code": "COM36",
+            "course_name": "Streamlined hybrid matrix",
+            "instructor": "Amy Johnson",
+            "credits": 3,
+            "semester": 3
+          },
+          {
+            "course_code": "COM854",
+            "course_name": "Profit-focused incremental function",
+            "instructor": "Paul White",
+            "credits": 2,
+            "semester": 3
+          }
+        ],
+        "academic_performance": {
+          "cgpa": 3.34,
+          "semester_wise_gpa": [
+            {
+              "semester": 1,
+              "gpa": 3.87
+            },
+            {
+              "semester": 2,
+              "gpa": 2.58
+            },
+            {
+              "semester": 3,
+              "gpa": 3.57
+            }
+          ],
+          "backlogs": [
+            {
+              "course_code": "COM36",
+              "attempts": 2
+            },
+            {
+              "course_code": "COM36",
+              "attempts": 1
+            }
+          ]
+        },
+        "attendance": {
+          "total_classes": 56,
+          "attended_classes": 56,
+          "percentage": 100,
+          "per_course_attendance": [
+            {
+              "course_code": "COM805",
+              "total_classes": 29,
+              "attended_classes": 20,
+              "percentage": 68.97
+            },
+            {
+              "course_code": "COM36",
+              "total_classes": 30,
+              "attended_classes": 24,
+              "percentage": 80
+            },
+            {
+              "course_code": "COM854",
+              "total_classes": 17,
+              "attended_classes": 15,
+              "percentage": 88.24
+            }
+          ]
+        }
+      }
+    }
+  }
+},
+{
+  "_id": "673ea3aac37d6cdbc5fc11ae",
+  "staff": {
+    "STAFF117775": {
+      "personal_details": {
+        "staff_id": "STAFF117775",
+        "name": "Deanna Santana",
+        "date_of_birth": "1976-07-17",
+        "gender": "Male",
+        "contact_number": "001-468-924-9123x46885",
+        "email": "tbooth@example.org"
+      },
+      "professional_details": {
+        "department": "Engineering",
+        "designation": "associate_professor",
+        "qualification": [
+          {
+            "degree": "Master's",
+            "specialization": "Engineering",
+            "institution": "Global Education Center",
+            "year_of_completion": 1998
+          }
+        ],
+        "courses_taught": [
+          {
+            "course_code": "ENG364",
+            "course_name": "Exclusive scalable portal",
+            "semester": 3,
+            "batch": 2021
+          },
+          {
+            "course_code": "ENG535",
+            "course_name": "Down-sized holistic frame",
+            "semester": 1,
+            "batch": 2019
+          }
+        ],
+        "research_interests": [
+          "hour",
+          "expect",
+          "citizen"
+        ],
+        "publications": [
+          {
+            "title": "Personal lay size west career stand.",
+            "journal": "Burton PLC",
+            "publication_date": "2020-10-27"
+          }
+        ]
+      },
+      "employment_details": {
+        "join_date": "2021-08-22",
+        "employment_type": "part_time",
+        "salary_details": {
+          "basic_salary": 98751,
+          "allowances": 29625.3,
+          "total_salary": 128376.3
+        }
+      }
+    }
+  }
+},
+{
+  "_id": "673ea3aac37d6cdbc5fc11af",
+  "staff": {
+    "STAFF411763": {
+      "personal_details": {
+        "staff_id": "STAFF411763",
+        "name": "Melissa King",
+        "date_of_birth": "1986-06-07",
+        "gender": "Other",
+        "contact_number": "(417)294-9100x4987",
+        "email": "bayala@example.net"
+      },
+      "professional_details": {
+        "department": "Engineering",
+        "designation": "associate_professor",
+        "qualification": [
+          {
+            "degree": "Master's",
+            "specialization": "Engineering",
+            "institution": "University of Global Education Center",
+            "year_of_completion": 2018
+          },
+          {
+            "degree": "Master's",
+            "specialization": "Engineering",
+            "institution": "National Institute of Technology",
+            "year_of_completion": 2016
+          },
+          {
+            "degree": "Bachelor's",
+            "specialization": "Engineering",
+            "institution": "University of University of Science and Technology",
+            "year_of_completion": 2017
+          }
+        ],
+        "courses_taught": [
+          {
+            "course_code": "ENG178",
+            "course_name": "Reverse-engineered foreground initiative",
+            "semester": 4,
+            "batch": 2018
+          },
+          {
+            "course_code": "ENG470",
+            "course_name": "Visionary scalable migration",
+            "semester": 7,
+            "batch": 2019
+          }
+        ],
+        "research_interests": [
+          "reach",
+          "however"
+        ],
+        "publications": [
+          {
+            "title": "Strong big suddenly.",
+            "journal": "Gross-Mendez",
+            "publication_date": "2020-11-18"
+          },
+          {
+            "title": "Investment parent open face outside ever.",
+            "journal": "Lewis-Freeman",
+            "publication_date": "2022-01-07"
+          }
+        ]
+      },
+      "employment_details": {
+        "join_date": "2021-03-25",
+        "employment_type": "full_time",
+        "salary_details": {
+          "basic_salary": 119547,
+          "allowances": 35864.1,
+          "total_salary": 155411.1
+        }
+      }
+    }
+  }
+},
+{
+  "_id": "673ea3aac37d6cdbc5fc11b0",
+  "staff": {
+    "STAFF645811": {
+      "personal_details": {
+        "staff_id": "STAFF645811",
+        "name": "Angela Hickman",
+        "date_of_birth": "1999-03-11",
+        "gender": "Female",
+        "contact_number": "295.525.0157",
+        "email": "brittany03@example.com"
+      },
+      "professional_details": {
+        "department": "Physics",
+        "designation": "lecturer",
+        "qualification": [
+          {
+            "degree": "Master's",
+            "specialization": "Physics",
+            "institution": "National Central University",
+            "year_of_completion": 2012
+          },
+          {
+            "degree": "Master's",
+            "specialization": "Physics",
+            "institution": "Technical State University",
+            "year_of_completion": 2003
+          },
+          {
+            "degree": "Bachelor's",
+            "specialization": "Physics",
+            "institution": "University of Advanced Learning University",
+            "year_of_completion": 2003
+          }
+        ],
+        "courses_taught": [
+          {
+            "course_code": "PHY877",
+            "course_name": "Front-line uniform time-frame",
+            "semester": 6,
+            "batch": 2018
+          },
+          {
+            "course_code": "PHY139",
+            "course_name": "Extended foreground Graphical User Interface",
+            "semester": 6,
+            "batch": 2022
+          }
+        ],
+        "research_interests": [
+          "what"
+        ],
+        "publications": [
+          {
+            "title": "Player rule letter color wish hard relationship attorney.",
+            "journal": "Miller-Medina",
+            "publication_date": "2022-01-13"
+          },
+          {
+            "title": "Person energy fund your race method do.",
+            "journal": "Preston, Mcmahon and Brooks",
+            "publication_date": "2023-10-17"
+          },
+          {
+            "title": "Science collection federal.",
+            "journal": "Stewart and Sons",
+            "publication_date": "2023-03-17"
+          }
+        ]
+      },
+      "employment_details": {
+        "join_date": "2024-03-20",
+        "employment_type": "part_time",
+        "salary_details": {
+          "basic_salary": 104376,
+          "allowances": 31312.8,
+          "total_salary": 135688.8
+        }
+      }
+    }
+  }
+},
+{
+  "_id": "673ea3aac37d6cdbc5fc11b1",
+  "staff": {
+    "STAFF946693": {
+      "personal_details": {
+        "staff_id": "STAFF946693",
+        "name": "Emily Davis",
+        "date_of_birth": "1964-06-24",
+        "gender": "Female",
+        "contact_number": "300.828.0030",
+        "email": "brittanymendez@example.org"
+      },
+      "professional_details": {
+        "department": "Chemistry",
+        "designation": "professor",
+        "qualification": [
+          {
+            "degree": "Bachelor's",
+            "specialization": "Chemistry",
+            "institution": "National State University",
+            "year_of_completion": 2023
+          }
+        ],
+        "courses_taught": [
+          {
+            "course_code": "CHE205",
+            "course_name": "Future-proofed zero-defect function",
+            "semester": 5,
+            "batch": 2021
+          },
+          {
+            "course_code": "CHE247",
+            "course_name": "Managed disintermediate workforce",
+            "semester": 8,
+            "batch": 2020
+          }
+        ],
+        "research_interests": [
+          "card",
+          "board"
+        ],
+        "publications": []
+      },
+      "employment_details": {
+        "join_date": "2017-07-07",
+        "employment_type": "part_time",
+        "salary_details": {
+          "basic_salary": 65419,
+          "allowances": 19625.7,
+          "total_salary": 85044.7
+        }
+      }
+    }
+  }
+},
+{
+  "_id": "673ea3aac37d6cdbc5fc11b2",
+  "staff": {
+    "STAFF754653": {
+      "personal_details": {
+        "staff_id": "STAFF754653",
+        "name": "Tammy Jones",
+        "date_of_birth": "1997-01-27",
+        "gender": "Female",
+        "contact_number": "001-247-577-3262x727",
+        "email": "tsmith@example.org"
+      },
+      "professional_details": {
+        "department": "Physics",
+        "designation": "assistant_professor",
+        "qualification": [
+          {
+            "degree": "Bachelor's",
+            "specialization": "Physics",
+            "institution": "University of Advanced Learning University",
+            "year_of_completion": 1996
+          },
+          {
+            "degree": "Bachelor's",
+            "specialization": "Physics",
+            "institution": "University of State University",
+            "year_of_completion": 2021
+          },
+          {
+            "degree": "Master's",
+            "specialization": "Physics",
+            "institution": "University of Metropolitan University",
+            "year_of_completion": 2001
+          }
+        ],
+        "courses_taught": [
+          {
+            "course_code": "PHY857",
+            "course_name": "Cloned analyzing groupware",
+            "semester": 3,
+            "batch": 2019
+          },
+          {
+            "course_code": "PHY567",
+            "course_name": "Grass-roots directional superstructure",
+            "semester": 6,
+            "batch": 2021
+          },
+          {
+            "course_code": "PHY767",
+            "course_name": "Down-sized methodical firmware",
+            "semester": 2,
+            "batch": 2020
+          },
+          {
+            "course_code": "PHY797",
+            "course_name": "Exclusive multi-state moderator",
+            "semester": 6,
+            "batch": 2021
+          }
+        ],
+        "research_interests": [
+          "popular",
+          "policy",
+          "edge"
+        ],
+        "publications": [
+          {
+            "title": "Race important require would every.",
+            "journal": "Harris, Aguilar and Wilson",
+            "publication_date": "2021-07-07"
+          },
+          {
+            "title": "Under ability find finally key information police.",
+            "journal": "Barton, Beltran and Anderson",
+            "publication_date": "2020-10-31"
+          },
+          {
+            "title": "Prevent line trial simply white poor somebody.",
+            "journal": "Andrews, Hartman and Mcneil",
+            "publication_date": "2024-03-12"
+          },
+          {
+            "title": "Theory economy ok movement worker movement study.",
+            "journal": "Cantrell-Rivera",
+            "publication_date": "2023-09-26"
+          },
+          {
+            "title": "Present indicate general follow arrive community remain.",
+            "journal": "Valdez-Mclaughlin",
+            "publication_date": "2024-07-31"
+          }
+        ]
+      },
+      "employment_details": {
+        "join_date": "2019-09-08",
+        "employment_type": "part_time",
+        "salary_details": {
+          "basic_salary": 110557,
+          "allowances": 33167.1,
+          "total_salary": 143724.1
+        }
+      }
+    }
+  }
+},
+{
+  "_id": "673ea3aac37d6cdbc5fc11b3",
+  "staff": {
+    "STAFF190827": {
+      "personal_details": {
+        "staff_id": "STAFF190827",
+        "name": "Barbara Richards",
+        "date_of_birth": "1998-09-02",
+        "gender": "Other",
+        "contact_number": "691.731.4339",
+        "email": "johnsonjuan@example.com"
+      },
+      "professional_details": {
+        "department": "Mathematics",
+        "designation": "lecturer",
+        "qualification": [
+          {
+            "degree": "PhD",
+            "specialization": "Mathematics",
+            "institution": "Technical Central University",
+            "year_of_completion": 2023
+          }
+        ],
+        "courses_taught": [
+          {
+            "course_code": "MAT485",
+            "course_name": "Networked even-keeled infrastructure",
+            "semester": 7,
+            "batch": 2020
+          }
+        ],
+        "research_interests": [
+          "hit",
+          "should",
+          "north",
+          "human",
+          "reach"
+        ],
+        "publications": [
+          {
+            "title": "Fire receive perform apply.",
+            "journal": "Kelley-Smith",
+            "publication_date": "2020-06-18"
+          }
+        ]
+      },
+      "employment_details": {
+        "join_date": "2009-12-19",
+        "employment_type": "part_time",
+        "salary_details": {
+          "basic_salary": 97931,
+          "allowances": 29379.3,
+          "total_salary": 127310.3
+        }
+      }
+    }
+  }
+},
+{
+  "_id": "673ea3aac37d6cdbc5fc11b4",
+  "staff": {
+    "STAFF33109": {
+      "personal_details": {
+        "staff_id": "STAFF33109",
+        "name": "Gina Austin",
+        "date_of_birth": "1977-07-19",
+        "gender": "Male",
+        "contact_number": "+1-420-748-2249",
+        "email": "christina07@example.org"
+      },
+      "professional_details": {
+        "department": "Mathematics",
+        "designation": "assistant_professor",
+        "qualification": [
+          {
+            "degree": "Bachelor's",
+            "specialization": "Mathematics",
+            "institution": "National Central University",
+            "year_of_completion": 2017
+          }
+        ],
+        "courses_taught": [
+          {
+            "course_code": "MAT696",
+            "course_name": "User-friendly non-volatile moratorium",
+            "semester": 8,
+            "batch": 2019
+          },
+          {
+            "course_code": "MAT628",
+            "course_name": "User-centric empowering hardware",
+            "semester": 7,
+            "batch": 2019
+          },
+          {
+            "course_code": "MAT167",
+            "course_name": "Enhanced systematic Graphical User Interface",
+            "semester": 8,
+            "batch": 2022
+          },
+          {
+            "course_code": "MAT714",
+            "course_name": "Horizontal maximized hardware",
+            "semester": 4,
+            "batch": 2022
+          }
+        ],
+        "research_interests": [
+          "investment",
+          "two",
+          "better"
+        ],
+        "publications": [
+          {
+            "title": "Surface executive machine month create.",
+            "journal": "Garrett and Sons",
+            "publication_date": "2023-09-18"
+          },
+          {
+            "title": "Over skin score concern size.",
+            "journal": "Taylor LLC",
+            "publication_date": "2021-04-12"
+          },
+          {
+            "title": "Congress community determine.",
+            "journal": "Walsh LLC",
+            "publication_date": "2022-09-30"
+          },
+          {
+            "title": "Hospital phone fly fact store have today.",
+            "journal": "Rose-Shepherd",
+            "publication_date": "2022-03-03"
+          }
+        ]
+      },
+      "employment_details": {
+        "join_date": "2020-06-14",
+        "employment_type": "contract",
+        "salary_details": {
+          "basic_salary": 65394,
+          "allowances": 19618.2,
+          "total_salary": 85012.2
+        }
+      }
+    }
+  }
+},
+{
+  "_id": "673ea3aac37d6cdbc5fc11b5",
+  "staff": {
+    "STAFF928105": {
+      "personal_details": {
+        "staff_id": "STAFF928105",
+        "name": "Robert Dickerson",
+        "date_of_birth": "1992-06-26",
+        "gender": "Female",
+        "contact_number": "746.798.8067x03436",
+        "email": "lorrainedavis@example.com"
+      },
+      "professional_details": {
+        "department": "Computer Science",
+        "designation": "professor",
+        "qualification": [
+          {
+            "degree": "Master's",
+            "specialization": "Computer Science",
+            "institution": "Metropolitan University",
+            "year_of_completion": 2014
+          },
+          {
+            "degree": "Master's",
+            "specialization": "Computer Science",
+            "institution": "State Metropolitan University",
+            "year_of_completion": 2013
+          },
+          {
+            "degree": "Bachelor's",
+            "specialization": "Computer Science",
+            "institution": "Innovation Academy",
+            "year_of_completion": 2015
+          }
+        ],
+        "courses_taught": [
+          {
+            "course_code": "COM915",
+            "course_name": "Fully-configurable incremental paradigm",
+            "semester": 2,
+            "batch": 2021
+          }
+        ],
+        "research_interests": [
+          "president"
+        ],
+        "publications": [
+          {
+            "title": "Role go serve accept free car.",
+            "journal": "Nelson and Sons",
+            "publication_date": "2023-12-25"
+          },
+          {
+            "title": "Area table drive memory social hot.",
+            "journal": "Parks and Sons",
+            "publication_date": "2023-01-13"
+          }
+        ]
+      },
+      "employment_details": {
+        "join_date": "2011-06-01",
+        "employment_type": "part_time",
+        "salary_details": {
+          "basic_salary": 76401,
+          "allowances": 22920.3,
+          "total_salary": 99321.3
+        }
+      }
+    }
+  }
+},
+{
+  "_id": "673ea3aac37d6cdbc5fc11b6",
+  "staff": {
+    "STAFF399283": {
+      "personal_details": {
+        "staff_id": "STAFF399283",
+        "name": "Brett Wolf",
+        "date_of_birth": "1988-08-24",
+        "gender": "Other",
+        "contact_number": "731.289.8921",
+        "email": "wisephilip@example.com"
+      },
+      "professional_details": {
+        "department": "Engineering",
+        "designation": "lecturer",
+        "qualification": [
+          {
+            "degree": "Bachelor's",
+            "specialization": "Engineering",
+            "institution": "State National Institute of Technology",
+            "year_of_completion": 1990
+          }
+        ],
+        "courses_taught": [
+          {
+            "course_code": "ENG411",
+            "course_name": "Switchable background time-frame",
+            "semester": 7,
+            "batch": 2021
+          }
+        ],
+        "research_interests": [
+          "something"
+        ],
+        "publications": [
+          {
+            "title": "Sometimes listen thank your no.",
+            "journal": "Joseph, Gonzales and Martinez",
+            "publication_date": "2020-12-02"
+          },
+          {
+            "title": "Agent front start ten customer so possible.",
+            "journal": "Taylor-Kirby",
+            "publication_date": "2023-05-26"
+          },
+          {
+            "title": "Pattern stage yard meeting itself culture magazine.",
+            "journal": "Morton-Fisher",
+            "publication_date": "2024-05-19"
+          },
+          {
+            "title": "Through hard growth no.",
+            "journal": "Mendez Inc",
+            "publication_date": "2020-12-02"
+          }
+        ]
+      },
+      "employment_details": {
+        "join_date": "2021-04-11",
+        "employment_type": "part_time",
+        "salary_details": {
+          "basic_salary": 86068,
+          "allowances": 25820.4,
+          "total_salary": 111888.4
+        }
+      }
+    }
+  }
+},
+{
+  "_id": "673ea3aac37d6cdbc5fc11b7",
+  "staff": {
+    "STAFF848299": {
+      "personal_details": {
+        "staff_id": "STAFF848299",
+        "name": "Amy Osborn",
+        "date_of_birth": "1986-04-16",
+        "gender": "Other",
+        "contact_number": "484.406.5807",
+        "email": "ldavis@example.org"
+      },
+      "professional_details": {
+        "department": "Computer Science",
+        "designation": "professor",
+        "qualification": [
+          {
+            "degree": "PhD",
+            "specialization": "Computer Science",
+            "institution": "National Institute of Technology",
+            "year_of_completion": 2021
+          },
+          {
+            "degree": "Master's",
+            "specialization": "Computer Science",
+            "institution": "Technical University of Science and Technology",
+            "year_of_completion": 2001
+          },
+          {
+            "degree": "Master's",
+            "specialization": "Computer Science",
+            "institution": "University of Global Education Center",
+            "year_of_completion": 2010
+          }
+        ],
+        "courses_taught": [
+          {
+            "course_code": "COM398",
+            "course_name": "Configurable bi-directional attitude",
+            "semester": 4,
+            "batch": 2023
+          },
+          {
+            "course_code": "COM875",
+            "course_name": "Triple-buffered impactful circuit",
+            "semester": 2,
+            "batch": 2022
+          },
+          {
+            "course_code": "COM320",
+            "course_name": "Profound full-range algorithm",
+            "semester": 3,
+            "batch": 2020
+          }
+        ],
+        "research_interests": [
+          "model",
+          "share",
+          "down",
+          "care",
+          "including"
+        ],
+        "publications": []
+      },
+      "employment_details": {
+        "join_date": "2015-09-21",
+        "employment_type": "part_time",
+        "salary_details": {
+          "basic_salary": 102357,
+          "allowances": 30707.1,
+          "total_salary": 133064.1
+        }
+      }
+    }
+  }
+},
+{
+  "_id": "673ea3aac37d6cdbc5fc11b8",
+  "staff": {
+    "STAFF154282": {
+      "personal_details": {
+        "staff_id": "STAFF154282",
+        "name": "Terri Moore",
+        "date_of_birth": "1973-05-31",
+        "gender": "Female",
+        "contact_number": "001-958-264-3191x718",
+        "email": "rebeccaevans@example.com"
+      },
+      "professional_details": {
+        "department": "Chemistry",
+        "designation": "lecturer",
+        "qualification": [
+          {
+            "degree": "Master's",
+            "specialization": "Chemistry",
+            "institution": "State Global Education Center",
+            "year_of_completion": 2001
+          }
+        ],
+        "courses_taught": [
+          {
+            "course_code": "CHE757",
+            "course_name": "Grass-roots systematic array",
+            "semester": 6,
+            "batch": 2019
+          },
+          {
+            "course_code": "CHE544",
+            "course_name": "Synergized tertiary initiative",
+            "semester": 6,
+            "batch": 2022
+          },
+          {
+            "course_code": "CHE887",
+            "course_name": "Diverse dedicated project",
+            "semester": 6,
+            "batch": 2023
+          }
+        ],
+        "research_interests": [
+          "under",
+          "respond",
+          "often"
+        ],
+        "publications": []
+      },
+      "employment_details": {
+        "join_date": "2012-09-26",
+        "employment_type": "full_time",
+        "salary_details": {
+          "basic_salary": 148685,
+          "allowances": 44605.5,
+          "total_salary": 193290.5
+        }
+      }
+    }
+  }
+},
+{
+  "_id": "673ea3aac37d6cdbc5fc11b9",
+  "staff": {
+    "STAFF432948": {
+      "personal_details": {
+        "staff_id": "STAFF432948",
+        "name": "Matthew Cantu",
+        "date_of_birth": "1976-10-02",
+        "gender": "Male",
+        "contact_number": "(341)943-0567",
+        "email": "angela53@example.com"
+      },
+      "professional_details": {
+        "department": "Computer Science",
+        "designation": "lecturer",
+        "qualification": [
+          {
+            "degree": "Bachelor's",
+            "specialization": "Computer Science",
+            "institution": "National State University",
+            "year_of_completion": 2009
+          },
+          {
+            "degree": "Bachelor's",
+            "specialization": "Computer Science",
+            "institution": "Technical Advanced Learning University",
+            "year_of_completion": 2002
+          },
+          {
+            "degree": "PhD",
+            "specialization": "Computer Science",
+            "institution": "National National Institute of Technology",
+            "year_of_completion": 1997
+          }
+        ],
+        "courses_taught": [
+          {
+            "course_code": "COM258",
+            "course_name": "Sharable web-enabled model",
+            "semester": 6,
+            "batch": 2022
+          },
+          {
+            "course_code": "COM364",
+            "course_name": "Right-sized fresh-thinking adapter",
+            "semester": 5,
+            "batch": 2018
+          },
+          {
+            "course_code": "COM88",
+            "course_name": "Public-key grid-enabled superstructure",
+            "semester": 3,
+            "batch": 2023
+          },
+          {
+            "course_code": "COM965",
+            "course_name": "Decentralized static time-frame",
+            "semester": 8,
+            "batch": 2021
+          }
+        ],
+        "research_interests": [
+          "if",
+          "affect"
+        ],
+        "publications": [
+          {
+            "title": "Relationship visit case community major either military.",
+            "journal": "Christian PLC",
+            "publication_date": "2021-06-01"
+          },
+          {
+            "title": "Carry live shake billion.",
+            "journal": "Griffith Group",
+            "publication_date": "2022-01-03"
+          },
+          {
+            "title": "North sing real life he unit.",
+            "journal": "Hughes-Rodriguez",
+            "publication_date": "2024-05-28"
+          },
+          {
+            "title": "Several authority field defense guess be pretty American.",
+            "journal": "Powell-Wright",
+            "publication_date": "2022-10-12"
+          },
+          {
+            "title": "First subject sometimes catch race line.",
+            "journal": "Copeland, Miller and Valencia",
+            "publication_date": "2021-08-17"
+          }
+        ]
+      },
+      "employment_details": {
+        "join_date": "2023-12-05",
+        "employment_type": "contract",
+        "salary_details": {
+          "basic_salary": 77500,
+          "allowances": 23250,
+          "total_salary": 100750
+        }
+      }
+    }
+  }
+},
+{
+  "_id": "673ea3aac37d6cdbc5fc11ba",
+  "staff": {
+    "STAFF961317": {
+      "personal_details": {
+        "staff_id": "STAFF961317",
+        "name": "William Johnson",
+        "date_of_birth": "1978-08-07",
+        "gender": "Female",
+        "contact_number": "7829749561",
+        "email": "christopher76@example.com"
+      },
+      "professional_details": {
+        "department": "Business",
+        "designation": "assistant_professor",
+        "qualification": [
+          {
+            "degree": "Bachelor's",
+            "specialization": "Business",
+            "institution": "Technical Advanced Learning University",
+            "year_of_completion": 1995
+          }
+        ],
+        "courses_taught": [
+          {
+            "course_code": "BUS477",
+            "course_name": "Profit-focused mobile flexibility",
+            "semester": 4,
+            "batch": 2022
+          },
+          {
+            "course_code": "BUS391",
+            "course_name": "Monitored object-oriented capability",
+            "semester": 2,
+            "batch": 2019
+          },
+          {
+            "course_code": "BUS203",
+            "course_name": "Ergonomic radical matrix",
+            "semester": 3,
+            "batch": 2020
+          }
+        ],
+        "research_interests": [
+          "story",
+          "chair",
+          "weight",
+          "big"
+        ],
+        "publications": []
+      },
+      "employment_details": {
+        "join_date": "2011-08-14",
+        "employment_type": "contract",
+        "salary_details": {
+          "basic_salary": 114926,
+          "allowances": 34477.8,
+          "total_salary": 149403.8
+        }
+      }
+    }
+  }
+},
+{
+  "_id": "673ea3aac37d6cdbc5fc11bb",
+  "staff": {
+    "STAFF838426": {
+      "personal_details": {
+        "staff_id": "STAFF838426",
+        "name": "Andrea Hendrix",
+        "date_of_birth": "1960-05-07",
+        "gender": "Male",
+        "contact_number": "871-321-6865",
+        "email": "frankguerrero@example.net"
+      },
+      "professional_details": {
+        "department": "Mathematics",
+        "designation": "professor",
+        "qualification": [
+          {
+            "degree": "PhD",
+            "specialization": "Mathematics",
+            "institution": "National Institute of Technology",
+            "year_of_completion": 2014
+          }
+        ],
+        "courses_taught": [
+          {
+            "course_code": "MAT565",
+            "course_name": "Integrated heuristic analyzer",
+            "semester": 6,
+            "batch": 2022
+          },
+          {
+            "course_code": "MAT770",
+            "course_name": "Object-based bifurcated methodology",
+            "semester": 5,
+            "batch": 2020
+          },
+          {
+            "course_code": "MAT957",
+            "course_name": "Open-source background function",
+            "semester": 7,
+            "batch": 2019
+          }
+        ],
+        "research_interests": [
+          "listen",
+          "security",
+          "any",
+          "no",
+          "you"
+        ],
+        "publications": [
+          {
+            "title": "Campaign audience keep generation.",
+            "journal": "Delgado Ltd",
+            "publication_date": "2022-05-14"
+          }
+        ]
+      },
+      "employment_details": {
+        "join_date": "2014-06-10",
+        "employment_type": "part_time",
+        "salary_details": {
+          "basic_salary": 53131,
+          "allowances": 15939.3,
+          "total_salary": 69070.3
+        }
+      }
+    }
+  }
+},
+{
+  "_id": "673ea3aac37d6cdbc5fc11bc",
+  "staff": {
+    "STAFF395981": {
+      "personal_details": {
+        "staff_id": "STAFF395981",
+        "name": "Cheryl Carlson",
+        "date_of_birth": "1975-01-06",
+        "gender": "Male",
+        "contact_number": "861.595.0101",
+        "email": "andrew72@example.net"
+      },
+      "professional_details": {
+        "department": "Business",
+        "designation": "professor",
+        "qualification": [
+          {
+            "degree": "Bachelor's",
+            "specialization": "Business",
+            "institution": "Central University",
+            "year_of_completion": 1990
+          },
+          {
+            "degree": "PhD",
+            "specialization": "Business",
+            "institution": "Academic Excellence University",
+            "year_of_completion": 1994
+          },
+          {
+            "degree": "Master's",
+            "specialization": "Business",
+            "institution": "National Innovation Academy",
+            "year_of_completion": 2022
+          }
+        ],
+        "courses_taught": [
+          {
+            "course_code": "BUS552",
+            "course_name": "Switchable real-time definition",
+            "semester": 1,
+            "batch": 2020
+          },
+          {
+            "course_code": "BUS853",
+            "course_name": "Front-line analyzing knowledge user",
+            "semester": 1,
+            "batch": 2022
+          },
+          {
+            "course_code": "BUS359",
+            "course_name": "Customizable global infrastructure",
+            "semester": 7,
+            "batch": 2023
+          },
+          {
+            "course_code": "BUS432",
+            "course_name": "Focused object-oriented productivity",
+            "semester": 3,
+            "batch": 2022
+          }
+        ],
+        "research_interests": [
+          "their",
+          "conference"
+        ],
+        "publications": [
+          {
+            "title": "Each final program foot term suddenly meeting.",
+            "journal": "Salinas LLC",
+            "publication_date": "2022-09-15"
+          },
+          {
+            "title": "With ask Mr.",
+            "journal": "Olson, Steele and Bell",
+            "publication_date": "2020-11-14"
+          },
+          {
+            "title": "Walk very smile.",
+            "journal": "Butler-York",
+            "publication_date": "2020-06-02"
+          }
+        ]
+      },
+      "employment_details": {
+        "join_date": "2018-01-05",
+        "employment_type": "full_time",
+        "salary_details": {
+          "basic_salary": 126158,
+          "allowances": 37847.4,
+          "total_salary": 164005.4
+        }
+      }
+    }
+  }
+},
+{
+  "_id": {
+    "$oid": "673ff326771d320787903ef7"
+  },
+  "username": "admin",
+  "password": "$2b$12$wB2v7Vn/FQJNwwdLSKzNeOr2eB.f8FXrWrVGOmBH1TpoodmM0d8D."
+},
+{
+  "_id": {
+    "$oid": "677d42aab2cdfcdd826baf53"
+  },
+  "username": "22106086@srcas.ac.in",
+  "password": "$2b$12$OV1lQ2EUduYownIUWYzyWeAeR4eETx4zDt83X.Z7EBvp6BYJL4PFy"
+}]
