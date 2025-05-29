@@ -1,0 +1,17 @@
+# Folders to ignore
+campusconnect/
+__pycache__/
+
+# Python cache files
+*.pyc
+*.pyo
+*.pyd
+
+# Environment files
+.env
+*.env
+
+# Other common Python ignores
+.venv/
+env/
+venv/
